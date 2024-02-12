@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70694382562",
+    "project_id": "chat-material3",
+    "storage_bucket": "chat-material3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70694382562:android:2d43f22918739464bfe7bb",
+        "android_client_info": {
+          "package_name": "com.example.chat_material3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNB0IAzRL_dIs1lCLRTfIpQXYI1K5I8jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
